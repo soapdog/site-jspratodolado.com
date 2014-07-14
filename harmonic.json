@@ -1,0 +1,26 @@
+{
+    "name": "JS Pra Todo Lado",
+    "title": "JS Pra Todo Lado",
+    "domain": "http://jspratodolado.com",
+    "subtitle": "Voce ganha um JS! Ele ganha um JS! Ela ganha um JS! Todo mundo ganha um JS!",
+    "author": "Andre Garzia",
+    "description": "Site sobre a utilizacao de JavaScript em tudo que eh canto",
+    "bio": "Desenvolvedor Mobile de Niteroi/RJ",
+    "template": "default",
+    "preprocessor": "stylus",
+    "deployment_type":"gh-pages",
+    "posts_permalink": ":year/:month/:title",
+    "pages_permalink": "pages/:title",
+    "header_tokens": [
+        "<!--",
+        "-->"
+    ],
+    "index_posts": 10,
+    "i18n": {
+        "default": "en",
+        "languages": [
+            "en",
+            "pt-br"
+        ]
+    }
+}
